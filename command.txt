@@ -1,0 +1,15 @@
+this is command file for git
+git init
+git add
+git commit -m
+git log
+git status
+git branch
+git checkout
+git restore
+git remote -v
+git push
+git pull
+git clone
+git merge
+git remote add
